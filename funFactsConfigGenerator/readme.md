@@ -1,0 +1,1 @@
+To generate a new configration file, run generateFunFactConfig.ps1
